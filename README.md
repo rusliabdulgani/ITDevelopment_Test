@@ -16,8 +16,8 @@ Soal 2.
 - Buatlah sebuat aplikasi mobile berbasis android/ios menggunakan react native
 - minimal terdiri dari satu screen yg bisa melakukan task yang sudah dibuat pada soal no. 1. Ya aplikasi ini nantinya akan consume/menggunakan REST API pada soal no 1 untuk di tampilkan secara visual
 - jika di buat bbrp screen ada nilai plus, disarankan menggunakan react navigation, tapi jika ada library navigasi lain tidak masalah. 
-- Jika di development sudah di test dan berjalan dengan baik, silahkan build menjadi satu file APK yang sudah sign dengan production keystore.
-- kirim apk file ke email saya: rusli.gani88@gmail.com, pastikan apk support di rentang android 7-11
+- Jika di development sudah di test dan berjalan dengan baik, silahkan build menjadi satu file APK yang sudah sign dengan production keystore. Jika IOS silahkan kirim link public url untuk testflight nya
+- kirim apk file ke email saya: rusli.gani88@gmail.com, pastikan apk support di rentang android 7-11 / Jika IOS silahkan kirim link public url untuk testflight nya
 
 
 Jika ada pertanyaan seputar soal test, silahkan menghubungi saya via whatsapp chat di +62 813-7911-4469
