@@ -20,3 +20,6 @@ Soal 2.
 - kirim apk file ke email saya: rusli.gani88@gmail.com, pastikan apk support di rentang android 7-11
 
 
+Jika ada pertanyaan seputar soal test, silahkan menghubungi saya via whatsapp chat di +62 813-7911-4469
+
+
